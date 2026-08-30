@@ -12,5 +12,6 @@ O case consiste no dimensionamento térmico de um trocador de calor de **corrent
 - **(C)** A área de superfície do trocador.
 
 ##  Estrutura do Repositório
-├── CASE_01_Thalles_Alves.ipynb # Notebook principal com a resolução
-├── README.md # Este arquivo
+├── 📄 CASE_01_Thalles_Alves.ipynb # Notebook principal com a resolução
+├── 📄 LICENSE # Licença MIT com restrição comercial
+└── 📄 README.md # Este arquivo
