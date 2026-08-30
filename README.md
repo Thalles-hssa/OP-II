@@ -10,8 +10,3 @@ O case consiste no dimensionamento térmico de um trocador de calor de **corrent
 - **(A)** A taxa de transferência de calor entre os fluidos;
 - **(B)** A vazão mássica de água necessária;
 - **(C)** A área de superfície do trocador.
-
-##  Estrutura do Repositório
-├── 📄 CASE_01_Thalles_Alves.ipynb # Notebook principal com a resolução
-├── 📄 LICENSE # Licença MIT com restrição comercial
-└── 📄 README.md # Este arquivo
