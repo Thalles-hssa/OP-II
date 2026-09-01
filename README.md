@@ -13,5 +13,5 @@ O case consiste no dimensionamento térmico de um trocador de calor de **corrent
 
 ## Acesso
 
-Para acessar o código fonte basta clicar no ícone "TC.ipynb" na aba lateral esquerda.
+Para acessar o código fonte basta clicar no ícone "TC.ipynb".
 O código fonte também está disponível para download. Após acessar "TC.ipynb" um botão de download no campo superior direito da tela, com um ícone de seta apontado para baixo.
