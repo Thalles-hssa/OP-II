@@ -1,5 +1,5 @@
 # OP-II
-Nesse repositório pretendedo publicar a implementação computacional em python dos cases propostos em aula.
+Nesse repositório pretendedo publicar a implementação computacional em python dos cases propostos em aula como forma de melhorar meu domínio de python.
 
 ##  Sobre o Projeto
 
