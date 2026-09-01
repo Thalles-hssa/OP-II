@@ -1,5 +1,5 @@
 # OP-II
-Implementação computacional em python dos cases propostos em aula.
+Nesse repositório pretendedo publicar a implementação computacional em python dos cases propostos em aula.
 
 ##  Sobre o Projeto
 
