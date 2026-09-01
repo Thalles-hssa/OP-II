@@ -10,3 +10,7 @@ O case consiste no dimensionamento térmico de um trocador de calor de **corrent
 - **(A)** A taxa de transferência de calor entre os fluidos;
 - **(B)** A vazão mássica de água necessária;
 - **(C)** A área de superfície do trocador.
+
+## Acesso
+
+Para acessar o código fonte basta clicar no icone "TC.ipynb" na aba lateral esquerda.
